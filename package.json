@@ -1,0 +1,27 @@
+{
+  "name": "10homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "library",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SIN88/10-team-profile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SIN88/10-team-profile/issues"
+  },
+  "homepage": "https://github.com/SIN88/10-team-profile#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
